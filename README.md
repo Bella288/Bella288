@@ -6,7 +6,11 @@
 - MURDER DRONES #1 FAN
 - NUZI SHIPPER 💛💜
 - ENVY HATER 😠
-- US Citizen 🇺🇸
+- US Citizen
+<!---
+HELP US
+--->
+
 <!---
 Bella288/Bella288 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
