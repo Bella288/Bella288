@@ -7,6 +7,8 @@
 - NUZI SHIPPER 💛💜
 - ENVY HATER 😠
 - US Citizen
+- Eastern Time Zone (UTC-04:00, GMT-04:00)
+- Attending Homestead High School in Fort Wayne, Indiana
 <!---
 HELP US
 --->
