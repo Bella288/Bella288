@@ -22,4 +22,14 @@ Please note that any app that are not following a standard are either in the pro
 - S1-9: Use plain language without technical terms where possible to facilitate users with ADHD, Autism, or Dyslexia.
 - S1-10: Users should be able to activate a dyslexia-friendly font.
 
+---
 
+## Section 2 - Recommendations for Web Accessibility
+
+- S2-1: Web Pages should be available in multiple languages, including Chinese, Spanish, French, German, Japanese, Korean, and more.
+
+
+---
+
+This page was last updated on **August 26th, 2025 at 1:44 PM**
+Updates may occur at any time.
