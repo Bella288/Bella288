@@ -33,3 +33,4 @@ Please note that any app that are not following a standard are either in the pro
 
 This page was last updated on **August 26th, 2025 at 1:44 PM**
 Updates may occur at any time.
+<!--https://www.w3.org/TR/2006/WD-WCAG20-20060427/appendixB.html-->
