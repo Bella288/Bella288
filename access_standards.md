@@ -1,5 +1,5 @@
 # Accessibility Standards and Recommendations
-### Version 1.0.1
+### Version 1.0.2
 ### By Bella Lawrence
 
 ---
