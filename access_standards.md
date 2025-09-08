@@ -10,7 +10,10 @@ Please note that any app that are not following a standard are either in the pro
 
 
 ---
+## Our Mission
+To provide free, accessible, and easy-to-use web applications to the general public.
 
+---
 ## Terms used in this document
 
 - "User" refers to the person that is using the web application
@@ -21,6 +24,9 @@ Please note that any app that are not following a standard are either in the pro
 - "Error message" refers to any page or popup that warns the user of an issue.
 - "ARIA" refers to Accessible Rich Internet Applications
 - "Multimedia Content" refers to any non-text, non-image content like videos or audio.
+- "Mobile Users" refers to a site visitor that is using a small portable device, like a mobile phone or tablet.
+- "Reactive web content" refers to web content that automatically adjusts to the user's device.
+- "Web Content" refers to the site the user is on.
 
 ---
 
@@ -41,17 +47,19 @@ Please note that any app that are not following a standard are either in the pro
 - S1-14: There should not be audio that automatically plays.
   - S1-14_A: If audio must automatically play, the user should be able to turn all auto-playing audio off.
 - S1-15: Content should not blink for longer than 3 seconds.
-- S1-16: Sign Language interpretation should be provided for multimedia content.
+- S1-16: Sign Language interpretation should be provided for **multimedia** content.
+
+---
+## Section 2 - Further Standards for Ease of Use across platforms
+- S2-1: Web content should resize automatically to support mobile users.
+---
+## Section 3 - Recommendations for Web Accessibility
+
+- S3-1: Web Pages should be available in multiple languages, including Chinese, Spanish, French, German, Japanese, Korean, and more.
+
 
 ---
 
-## Section 2 - Recommendations for Web Accessibility
-
-- S2-1: Web Pages should be available in multiple languages, including Chinese, Spanish, French, German, Japanese, Korean, and more.
-
-
----
-
-This page was last updated on **August 28th, 2025**
+This page was last updated on **September 8th, 2025**
 Updates may occur at any time.
 <!--https://www.w3.org/TR/2006/WD-WCAG20-20060427/appendixB.html-->
