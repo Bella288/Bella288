@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bella288
 - 👀 I’m interested in C++
-- 🌱 I’m currently learning to be patient
+- 🌱 I’m currently learning to be quiet
 - 💻 I can code stuff, I guess.
 - 💪 Strongest in Python
 - MURDER DRONES #1 FAN
